@@ -1,4 +1,4 @@
-# :wave: Hey There !! I'm <a href = "https://tushxr16.github.io/portoFolio/">**Tushar Sharma**</a>
+# :wave: Hey There !! I'm **Sarthak Vats**
 - 🔭 I am currently a pre final year student at IIT Ropar. 
 - 🌱: I am interested in Full stack Development.
 - 💻: I am proficient in C, C++, HTML, CSS, Javascript, Node.js and various framework packages.
