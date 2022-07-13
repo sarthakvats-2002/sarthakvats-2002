@@ -1,6 +1,6 @@
 # :wave: Hey There !! I'm **Sarthak Vats**
 - 🔭 I am currently a pre final year student at IIT Ropar. 
-- 🌱: I am interested in Full stack Development.
+- 🌱: I am interested in Full stack Web Development.
 - 💻: I am proficient in C, C++, HTML, CSS, Javascript, Node.js and various framework packages.
 - ✨: Looking forward to collaborate on some amazing projects.
 - 🤝: Let's get in touch
