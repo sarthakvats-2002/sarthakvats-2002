@@ -17,4 +17,4 @@
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 
 ## :trophy: My Github Stats <br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tushxr16&show_icons=true&theme=tokyonight) <br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthakvats-2002&show_icons=true&theme=tokyonight) <br>
